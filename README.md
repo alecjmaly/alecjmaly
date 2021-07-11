@@ -9,10 +9,14 @@
 
 - 🌱 I’m currently learning **Reverse Engineering and shellcoding**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/alecjmaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alecjmaly" height="20" width="25" /></a>
-</p>
+<h3 align="left">Connect with me:
+    <a href="https://linkedin.com/in/alecjmaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alecjmaly" height="20" width="25" /></a>
+</h3>
+
+<h3 align="left">I occasionally upload demos/tutorials of my projects on YouTube:
+    <a href="https://www.youtube.com/channel/UCdLLop7QOkTgKlLtzlU1PkA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/youtube-logo.svg" alt="alecjmaly" height="30" width="35" /></a>
+</h3>
+
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
