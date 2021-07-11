@@ -9,13 +9,10 @@
 
 - 🌱 I’m currently learning **Reverse Engineering and shellcoding**
 
-
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/alecjmaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alecjmaly" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alecjmaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alecjmaly" height="20" width="25" /></a>
 </p>
-
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -39,6 +36,7 @@
 ![](https://img.shields.io/badge/Visual%20Basic-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Assembly-informational?style=flat&color=2bbc8a)
 
 <h4 align="left">Other software and applications I am familiar with:</h3>
 
@@ -60,8 +58,6 @@
 
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-BurpSuite-informational?style=flat&color=2bbc8a)
-<br>
-
 ![](https://img.shields.io/badge/disassembler-Ghidra-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/debugger-x64dbg-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/debugger-gdb-informational?style=flat&color=2bbc8a)
