@@ -22,12 +22,6 @@
     css to hide border lines
  -->
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 | | |
 | ----- | ---- |
 | ![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecjmaly&show_icons=true&theme=radical)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecjmaly&layout=compact)](https://github.com/alecjmaly/github-readme-stats) |
