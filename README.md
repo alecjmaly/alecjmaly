@@ -18,17 +18,11 @@
 </h3>
 
 
-<!-- stats
-    css to hide border lines
- -->
 
 | | |
 | ----- | ---- |
 | ![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecjmaly&show_icons=true&theme=radical)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecjmaly&layout=compact)](https://github.com/alecjmaly/github-readme-stats) |
 
-<!-- stats -->
-
-<br>
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Primary Languages:</h3>
