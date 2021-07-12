@@ -22,7 +22,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 | | |
 | ----- | ---- |
-| ![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecjmaly&show_icons=true&theme=radical&theme=buefy)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecjmaly&layout=compact)](https://github.com/alecjmaly/github-readme-stats) |
+| ![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecjmaly&show_icons=true&theme=radical&theme=buefy)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecjmaly&layout=compact) |
 
 
 <br>
