@@ -72,6 +72,7 @@
 ![](https://img.shields.io/badge/disassembler-Ghidra-informational?style=flat&color=2B96BD)
 ![](https://img.shields.io/badge/debugger-x64dbg-informational?style=flat&color=2B96BD)
 ![](https://img.shields.io/badge/debugger-gdb-informational?style=flat&color=2B96BD)
+![](https://img.shields.io/badge/memory%20scanner-cheat%20engine-informational?style=flat&color=2B96BD)
 ![](https://img.shields.io/badge/.NET%20Reverse%20Engineering-dnSpy-informational?style=flat&color=2B96BD)
 ![](https://img.shields.io/badge/Android%20Reverse%20Engineering-Frida-informational?style=flat&color=2B96BD)
 <br>
