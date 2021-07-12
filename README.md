@@ -17,10 +17,13 @@
     <a href="https://www.youtube.com/channel/UCdLLop7QOkTgKlLtzlU1PkA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/youtube-logo.svg" alt="alecjmaly" height="30" width="35" /></a>
 </h3>
 
-
+<!-- Statistics from: 
+    https://github.com/alecjmaly/github-stats) 
+-->
 
 ![Alec's GitHub stats](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/overview.svg)
 ![Top Langs](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/languages.svg) 
+
 
 
 <br>
