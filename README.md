@@ -22,7 +22,6 @@
 ![Alec's GitHub stats](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/overview.svg)
 ![Top Langs](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/languages.svg) 
 
-[stats source](https://github.com/alecjmaly/github-stats)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
