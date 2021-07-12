@@ -3,7 +3,7 @@
     badge icon urls:    https://simpleicons.org/
  -->
 
-<h1 align="center">Hi 👋, I'm Alec Maly</h1>
+<h1 align="center">👨‍💻 About me: Alec Maly</h1>
 
 <h3 align="left">I'm passionate about software development and application security. I very much enjoy enabling people with technology, improving processes with automation, and making our modern technological landscape safer for the average person.</h3>
 
@@ -19,10 +19,8 @@
 
 
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-| | |
-| ----- | ---- |
-| ![Alec's GitHub stats](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/overview.svg)  |  ![Top Langs](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/languages.svg) |
+![Alec's GitHub stats](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/overview.svg)
+![Top Langs](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/languages.svg) |
 
 
 <br>
