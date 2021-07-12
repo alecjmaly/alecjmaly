@@ -18,6 +18,7 @@
 </h3>
 
 
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 | | |
 | ----- | ---- |
@@ -71,6 +72,8 @@
 ![](https://img.shields.io/badge/disassembler-Ghidra-informational?style=flat&color=2B96BD)
 ![](https://img.shields.io/badge/debugger-x64dbg-informational?style=flat&color=2B96BD)
 ![](https://img.shields.io/badge/debugger-gdb-informational?style=flat&color=2B96BD)
+![](https://img.shields.io/badge/.NET%20Reverse%20Engineering-dnSpy-informational?style=flat&color=2B96BD)
+![](https://img.shields.io/badge/Android%20Reverse%20Engineering-Frida-informational?style=flat&color=2B96BD)
 <br>
 
 ![](https://img.shields.io/badge/image%20processing-GIMP-informational?style=flat&logo=gimp&logoColor=white&color=2B96BD)
@@ -78,10 +81,3 @@
 
 ![](https://img.shields.io/badge/framework-React-informational?style=flat&logo=React&logoColor=white&color=2B96BD)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2B96BD)
-
-
-
-
-
-
-
