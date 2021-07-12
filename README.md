@@ -20,7 +20,7 @@
 
 
 ![Alec's GitHub stats](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/overview.svg)
-![Top Langs](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/languages.svg) |
+![Top Langs](https://raw.githubusercontent.com/alecjmaly/github-stats/master/generated/languages.svg) 
 
 
 <br>
