@@ -66,6 +66,7 @@
 
 ![](https://img.shields.io/badge/source%20control-git-informational?style=flat&logo=git&logoColor=white&color=2B96BD)
 ![](https://img.shields.io/badge/containerization-docker-informational?style=flat&logo=docker&logoColor=white&color=2B96BD)
+![](https://img.shields.io/badge/virtualization-virtual%20box-informational?style=flat&logo=VirtualBox&logoColor=white&color=2B96BD)
 <br>
 
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2B96BD)
