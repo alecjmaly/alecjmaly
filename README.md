@@ -9,18 +9,18 @@
 
 - 🌱 I’m currently learning **Reverse Engineering and shellcoding**
 
-<h3 align="left">Connect with me:
-    <a href="https://linkedin.com/in/alecjmaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="25" /></a>
+<h3 align="left">Connect with me:&nbsp;
+    <a href="https://linkedin.com/in/alecjmaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" /></a>
 </h3>
 
-<h3 align="left">I occasionally upload demos/tutorials of my projects on YouTube:
-    <a href="https://www.youtube.com/channel/UCdLLop7QOkTgKlLtzlU1PkA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/youtube-logo.svg" alt="youtube" height="30" width="35" /></a>
+<h3 align="left">I occasionally upload demos/tutorials of my projects on YouTube:&nbsp;
+    <a href="https://www.youtube.com/channel/UCdLLop7QOkTgKlLtzlU1PkA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/youtube-logo.svg" alt="youtube" height="30"/></a>
 </h3>
 
-<h3 align="left">My other public profiles:
-    <a href="https://www.pentesterlab.com/profile/Alec_M" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/pentesterlab.png" alt="pentesterlab" height="30" /></a>
-    <a href="https://app.hackthebox.eu/profile/69305" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/hackthebox.png" alt="hackthebox" height="30" /></a>
-    <a href="https://tryhackme.com/p/Kauv" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/tryhackme.png" alt="tryhackme" height="30" /></a>
+<h3 align="left">My other public profiles:&nbsp;
+    <a href="https://www.pentesterlab.com/profile/Alec_M" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/pentesterlab.png" alt="pentesterlab" height="40" /></a>&nbsp;
+    <a href="https://app.hackthebox.eu/profile/69305" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/hackthebox.png" alt="hackthebox" height="40" /></a>&nbsp;
+    <a href="https://tryhackme.com/p/Kauv" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/tryhackme.png" alt="tryhackme" height="40" /></a>
 </h3>
 <!-- Statistics from: 
     https://github.com/alecjmaly/github-stats) 
