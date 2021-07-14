@@ -18,9 +18,9 @@
 </h3>
 
 <h3 align="left">My other public profiles:&nbsp;
-    <a href="https://www.pentesterlab.com/profile/Alec_M" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/pentesterlab.png" alt="pentesterlab" height="40" /></a>&nbsp;
-    <a href="https://app.hackthebox.eu/profile/69305" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/hackthebox.png" alt="hackthebox" height="40" /></a>&nbsp;
-    <a href="https://tryhackme.com/p/Kauv" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/tryhackme.png" alt="tryhackme" height="40" /></a>
+    <a href="https://www.pentesterlab.com/profile/Alec_M" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/pentesterlab.png" alt="pentesterlab" height="45" /></a>&nbsp;
+    <a href="https://app.hackthebox.eu/profile/69305" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/hackthebox.png" alt="hackthebox" height="50" /></a>&nbsp;
+    <a href="https://tryhackme.com/p/Kauv" target="blank"><img align="center" src="https://raw.githubusercontent.com/alecjmaly/alecjmaly/main/tryhackme.png" alt="tryhackme" height="45" /></a>
 </h3>
 <!-- Statistics from: 
     https://github.com/alecjmaly/github-stats) 
